@@ -1,0 +1,9 @@
+空间  http://manager.yunvhs.cn/public/login.html
+ 		您的用户名： niushilin
+		您的密码：pacstech
+数据库  localhost	用户：uu182099	    数据库：uu182099      密码：JBUqgVjC
+FTP     用户：uu182099         密码：63h6reO9    端口：
+
+
+wordpress后台：
+账户：nsl1993	密码：nsl199362..
